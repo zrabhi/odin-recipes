@@ -2,8 +2,7 @@ body{
     background-color: #8b8b81;
 }
 img{
-    width: 100%;
-    height: auto;
+    max-width: 100%;
 }
 h1{
     text-align: center;
