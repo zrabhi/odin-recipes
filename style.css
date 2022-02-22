@@ -1,0 +1,21 @@
+body{
+    background-color: #8b8b81;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center;
+    text-shadow:2px 4px rgb(97, 97, 97);
+}
+h2{
+    text-align: center;
+}
+a{
+    color:black;
+    text-transform: uppercase;
+}
+li:hover{
+    max-width: 100%;
+}
